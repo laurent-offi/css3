@@ -1,0 +1,71 @@
+body {
+	margin: 0;
+}
+
+.containt {
+	width: 100%;
+	display: flex;
+	
+}
+
+#green {
+	width: 80%;
+	background-color: #2ecc71;
+	min-height: 10vh;
+}
+
+#blue {
+	width: 20%;
+	background-color: #2980b9;
+	min-height: 10vh;
+}
+
+#red {
+	width: 40%;
+	background-color: #e74c3c;
+	min-height: 30vh;
+	float: left;
+}
+
+#orangeC {
+	width: 30%;
+	background-color: #e67e22;
+	min-height: 15vh;
+	float: left;
+}
+
+#grey {
+	width: 30%;
+	background-color: #95a5a6;
+	min-height: 15vh;
+	float: left;
+}
+
+
+#yellow {
+	width: 20%;
+	background-color: #f39c12;
+	min-height: 15vh;
+	float: left;
+}
+
+#greenK {
+	width: 20%;
+	background-color: #16a085;
+	min-height: 15vh;
+	float: left;
+}
+
+#orangeF {
+	width: 20%;
+	background-color: #d35400;
+	min-height: 15vh;
+	float: left;
+}
+
+#blueM {
+	width: 100%;
+	background-color: #2c3e50;
+	min-height: 60vh;
+	float: left;
+}
